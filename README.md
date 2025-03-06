@@ -4,10 +4,10 @@ https://lets-go-further.alexedwards.net/
 Book version: 1.24.0  
 Go version: 1.24  
 
-Last page: 0  
+Last page: 10  
 
 ### Chapters:
-01. Introduction - ☐  
+01. Introduction - ☑  
 02. Getting Started - ☐  
 03. Sending JSON Responses - ☐  
 04. Parsing JSON Requests - ☐  
