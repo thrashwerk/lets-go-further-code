@@ -5,6 +5,9 @@
 podman exec -it greenlight-psql psql -U postgres
 
 podman exec -it greenlight-psql psql -U greenlight
+
+# DSN for connecting from the app
+postgres://greenlight:pasas456@127.0.0.1/greenlight?sslmode=disable
 ```
 
 ##### Useful commands
