@@ -1,0 +1,5 @@
+PostgreSQL tuning
+https://www.enterprisedb.com/postgres-tutorials/how-tune-postgresql-memory
+
+PostgreSQL config generator
+https://pgtune.leopard.in.ua
