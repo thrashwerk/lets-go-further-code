@@ -39,4 +39,6 @@ CREATE DATABASE greenlight;
 CREATE ROLE greenlight WITH LOGIN PASSWORD 'pasas456';
 
 CREATE EXTENSION IF NOT EXISTS citext;
+
+ALTER DATABASE greenlight OWNER TO greenlight;
 ```
