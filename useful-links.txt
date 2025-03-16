@@ -3,3 +3,6 @@ https://www.enterprisedb.com/postgres-tutorials/how-tune-postgresql-memory
 
 PostgreSQL config generator
 https://pgtune.leopard.in.ua
+
+PostgreSQL data types
+https://www.postgresql.org/docs/current/datatype.html
