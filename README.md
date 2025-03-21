@@ -4,7 +4,7 @@ https://lets-go-further.alexedwards.net/
 Book version: 1.24.0  
 Go version: 1.24  
 
-Last page: 138  
+Last page: 166  
 
 ### Chapters:
 01. Introduction - ☑  
@@ -13,7 +13,7 @@ Last page: 138
 04. Parsing JSON Requests - ☑  
 05. Database Setup and Configuration - ☑  
 06. SQL Migrations - ☑  
-07. CRUD Operations - ☐  
+07. CRUD Operations - ☑  
 08. Advanced CRUD Operations - ☐  
 09. Filtering, Sorting, and Pagination - ☐  
 10. Rate Limiting - ☐  
