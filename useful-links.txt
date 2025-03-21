@@ -6,3 +6,12 @@ https://pgtune.leopard.in.ua
 
 PostgreSQL data types
 https://www.postgresql.org/docs/current/datatype.html
+
+PostgreSQL varchar vs text types
+https://www.depesz.com/2010/03/02/charx-vs-varcharx-vs-varchar-vs-text/
+
+Decoupling database migrations from server startup: why and how
+https://pythonspeed.com/articles/schema-migrations-server-startup/
+
+PostgreSQL functions
+https://www.postgresql.org/docs/current/xfunc-sql.html
