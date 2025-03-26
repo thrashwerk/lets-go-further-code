@@ -27,6 +27,5 @@ Last page: 235
 18. Metrics - ☐  
 19. Building, Versioning and Quality Control - ☐  
 20. Deployment and Hosting - ☐  
-21. Appendices - ☐  
 
 ### Book Completed - ☐  
