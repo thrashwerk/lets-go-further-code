@@ -18,3 +18,9 @@ https://www.postgresql.org/docs/current/xfunc-sql.html
 
 PostgreSQL array functions and operators
 https://www.postgresql.org/docs/current/functions-array.html
+
+PostgreSQL intro to indexes
+https://www.postgresql.org/docs/current/indexes-intro.html
+
+PostgreSQL index types
+https://www.postgresql.org/docs/current/indexes-types.html
