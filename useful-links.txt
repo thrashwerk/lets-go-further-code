@@ -15,3 +15,6 @@ https://pythonspeed.com/articles/schema-migrations-server-startup/
 
 PostgreSQL functions
 https://www.postgresql.org/docs/current/xfunc-sql.html
+
+PostgreSQL array functions and operators
+https://www.postgresql.org/docs/current/functions-array.html
