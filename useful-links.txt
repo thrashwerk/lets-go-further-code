@@ -24,3 +24,6 @@ https://www.postgresql.org/docs/current/indexes-intro.html
 
 PostgreSQL index types
 https://www.postgresql.org/docs/current/indexes-types.html
+
+PostgreSQL full-text search docs
+https://www.postgresql.org/docs/current/textsearch.html
