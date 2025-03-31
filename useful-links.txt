@@ -27,3 +27,6 @@ https://www.postgresql.org/docs/current/indexes-types.html
 
 PostgreSQL full-text search docs
 https://www.postgresql.org/docs/current/textsearch.html
+
+Understanding Mutexes
+https://www.alexedwards.net/blog/understanding-mutexes
