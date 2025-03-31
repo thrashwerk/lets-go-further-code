@@ -4,7 +4,7 @@ https://lets-go-further.alexedwards.net/
 Book version: 1.24.0  
 Go version: 1.24  
 
-Last page: 241  
+Last page: 251  
 
 ### Chapters:
 01. Introduction - ☑  
@@ -16,7 +16,7 @@ Last page: 241
 07. CRUD Operations - ☑  
 08. Advanced CRUD Operations - ☑  
 09. Filtering, Sorting, and Pagination - ☑  
-10. Rate Limiting - ☐  
+10. Rate Limiting - ☑  
 11. Graceful Shutdown - ☐  
 12. User Model Setup and Registration - ☐  
 13. Sending Emails - ☐  
