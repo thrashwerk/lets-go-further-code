@@ -4,7 +4,7 @@ https://lets-go-further.alexedwards.net/
 Book version: 1.24.0  
 Go version: 1.24  
 
-Last page: 235  
+Last page: 241  
 
 ### Chapters:
 01. Introduction - ☑  
