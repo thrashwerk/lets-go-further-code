@@ -8,6 +8,8 @@ podman exec -it greenlight-psql psql -U greenlight
 
 # DSN for connecting from the app
 postgres://greenlight:pasas456@127.0.0.1/greenlight?sslmode=disable
+# For convenience add DSN env to bashrc
+echo 'export GREENLIGHT_DB_DSN=postgres://greenlight:pasas456@127.0.0.1/greenlight?sslmode=disable' > ~/.bashrc
 ```
 
 ##### Useful commands
@@ -41,6 +43,14 @@ CREATE ROLE greenlight WITH LOGIN PASSWORD 'pasas456';
 CREATE EXTENSION IF NOT EXISTS citext;
 
 ALTER DATABASE greenlight OWNER TO greenlight;
+```
+
+##### Migrations
+```bash
+# migrate tool can be downloaded at https://github.com/golang-migrate/migrate/releases
+
+# Running migrations
+migrate -path=./migrations -database=$GREENLIGHT_DB_DSN up
 ```
 
 ##### Test data
