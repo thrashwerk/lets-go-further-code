@@ -42,3 +42,26 @@ CREATE EXTENSION IF NOT EXISTS citext;
 
 ALTER DATABASE greenlight OWNER TO greenlight;
 ```
+
+##### Test data
+```bash
+BODY='{"title":"Moana","year":2016,"runtime":"107 mins","genres":["animation","adventure"]}'
+curl -i -d "$BODY" localhost:4000/v1/movies
+
+BODY='{"title":"Black Panther","year":2016,"runtime":"134 mins","genres":["sci-fi","action","adventure"]}'
+curl -i -d "$BODY" localhost:4000/v1/movies
+curl -i -XPATCH -d '{"year":2018}' localhost:4000/v1/movies/2
+
+BODY='{"title":"Black Panther 2","year":2020,"runtime":"130 mins","genres":["sci-fi","action","adventure"]}'
+curl -i -d "$BODY" localhost:4000/v1/movies
+curl -i -XDELETE localhost:4000/v1/movies/3
+
+BODY='{"title":"The Breakfast club","year":1986,"runtime":"95 mins","genres":["comedy","action"]}'
+curl -i -d "$BODY" localhost:4000/v1/movies
+curl -i -XPATCH -d '{"title":"The Breakfast Club"}' localhost:4000/v1/movies/4
+curl -i -XPATCH -d '{"runtime":"97 mins"}' localhost:4000/v1/movies/4
+curl -i -XPATCH -d '{"year":1985}' localhost:4000/v1/movies/4
+curl -i -XPATCH -d '{"genres":["comedy"]}' localhost:4000/v1/movies/4
+
+curl -i localhost:4000/v1/movies
+```
