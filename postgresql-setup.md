@@ -75,3 +75,9 @@ curl -i -XPATCH -d '{"genres":["comedy"]}' localhost:4000/v1/movies/4
 
 curl -i localhost:4000/v1/movies
 ```
+
+##### Creating API users
+```bash
+BODY='{"name": "Alice Smith", "email": "alice@example.com", "password": "pasas789"}'
+curl -i -d "$BODY" localhost:4000/v1/users
+```
