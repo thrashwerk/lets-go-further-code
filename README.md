@@ -4,7 +4,7 @@ https://lets-go-further.alexedwards.net/
 Book version: 1.24.0  
 Go version: 1.24  
 
-Last page: 282  
+Last page: 311  
 
 ### Chapters:
 01. Introduction - ☑  
@@ -19,7 +19,7 @@ Last page: 282
 10. Rate Limiting - ☑  
 11. Graceful Shutdown - ☑  
 12. User Model Setup and Registration - ☑  
-13. Sending Emails - ☐  
+13. Sending Emails - ☑  
 14. User Activation - ☐  
 15. Authentication - ☐  
 16. Permission-based Authorization - ☐  
