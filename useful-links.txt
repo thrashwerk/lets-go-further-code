@@ -30,3 +30,6 @@ https://www.postgresql.org/docs/current/textsearch.html
 
 Understanding Mutexes
 https://www.alexedwards.net/blog/understanding-mutexes
+
+SQL Joins: Working with Databases
+https://www.dataquest.io/blog/sql-joins/
