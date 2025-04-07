@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/data"
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/validator"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/data"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/validator"
 	"github.com/tomasen/realip"
 	"golang.org/x/time/rate"
 )

@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/data"
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/mailer"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/data"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/mailer"
 
 	_ "github.com/lib/pq"
 )

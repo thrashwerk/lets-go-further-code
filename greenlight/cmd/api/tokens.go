@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/data"
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/validator"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/data"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/validator"
 )
 
 func (app *application) createActivationTokenHandler(w http.ResponseWriter, r *http.Request) {

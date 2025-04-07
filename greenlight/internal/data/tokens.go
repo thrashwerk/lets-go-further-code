@@ -7,7 +7,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/validator"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/validator"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/data"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/data"
 )
 
 type contextKey string

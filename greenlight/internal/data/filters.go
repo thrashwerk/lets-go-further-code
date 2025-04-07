@@ -3,7 +3,7 @@ package data
 import (
 	"strings"
 
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/validator"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/validator"
 )
 
 type Filters struct {

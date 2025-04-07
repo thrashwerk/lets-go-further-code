@@ -7,7 +7,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/thrashwerk/lets-go-further-code/greenlight/internal/validator"
+	"codeberg.org/thrashwerk/lets-go-further-code/greenlight/internal/validator"
 	"golang.org/x/crypto/bcrypt"
 )
 
