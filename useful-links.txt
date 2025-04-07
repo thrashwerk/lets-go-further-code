@@ -33,3 +33,12 @@ https://www.alexedwards.net/blog/understanding-mutexes
 
 SQL Joins: Working with Databases
 https://www.dataquest.io/blog/sql-joins/
+
+Critical vulnerabilities in JSON Web Token libraries
+https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/
+
+JWT Security Best Practices
+https://curity.io/resources/learn/jwt-best-practices/
+
+User Authentication with OAuth 2.0
+https://oauth.net/articles/authentication/
