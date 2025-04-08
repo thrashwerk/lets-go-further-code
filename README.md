@@ -4,7 +4,7 @@ https://lets-go-further.alexedwards.net/
 Book version: 1.24.0  
 Go version: 1.24  
 
-Last page: 358  
+Last page: 382  
 
 ### Chapters:
 01. Introduction - ☑  
@@ -22,7 +22,7 @@ Last page: 358
 13. Sending Emails - ☑  
 14. User Activation - ☑  
 15. Authentication - ☑  
-16. Permission-based Authorization - ☐  
+16. Permission-based Authorization - ☑  
 17. Cross Origin Requests - ☐  
 18. Metrics - ☐  
 19. Building, Versioning and Quality Control - ☐  
