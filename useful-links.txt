@@ -42,3 +42,15 @@ https://curity.io/resources/learn/jwt-best-practices/
 
 User Authentication with OAuth 2.0
 https://oauth.net/articles/authentication/
+
+Custom command-line flags with flag.Func
+https://www.alexedwards.net/blog/custom-command-line-flags
+
+CORS and Vary
+https://textslashplain.com/2018/08/02/cors-and-vary/
+
+Security Risks of CORS
+https://medium.com/@ehayushpathak/security-risks-of-cors-e3f4a25c04d7
+
+Exploiting CORS misconfigurations for Bitcoins and bounties
+https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties
